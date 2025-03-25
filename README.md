@@ -1,6 +1,6 @@
 # Le Secret du Château
 
-_Groupe de **Lise BENOIT** et **prenom NOM**_
+_Groupe de **Lise BENOIT** et **Sikité Zeinab FOFANA**_
 
 ## Sujet
 
