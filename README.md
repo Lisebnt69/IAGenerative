@@ -1,4 +1,4 @@
-# Le Secret du Château
+# Jeu Vidéo : Le Secret du Château
 
 _Groupe de **Lise BENOIT** et **Sikité Zeinab FOFANA**_
 
@@ -18,6 +18,8 @@ Nous créerons un jeu vidéo à partir d’une idée développée en brainstormi
 
    - Nom du jeu : "Le Secret du Château"
    - Identité visuelle : Le logo devrait représenter un chateau regorgant de mystères
+
+### A partir de là nous nous sommes aidé de https://huggingface.co/chat à partir de notre idée initiale
 
 3. **génie artistique du concept**
 
@@ -50,12 +52,42 @@ Nous créerons un jeu vidéo à partir d’une idée développée en brainstormi
 
 ### Logo
 
-Voici les prompts utilisé pour générer le logo de notre jeu :
+Voici les promptes utilisés pour générer le logo de notre jeu, nous avons utilisé : https://leonardo.ai/
 
 ![Prompte n°1 Logo](images\promptLogo1.png)
+
 ![Prompte n°2 Logo](images\IMAGELOGO1.png)
-![Prompte n°2 Logo](images\IMAGELOGO2.png)
+
+![Prompte n°3 Logo](images\IMAGELOGO2.png)
 
 **Le logo séléctionné est :**
 
 ![Logo](images\Logo.jpeg)
+
+### Personnage principal
+
+Voici le prompte utilisés pour générer le personnage principale de notre jeu, nous avons utilisé : https://www.bing.com/images/create
+
+![Prompte Personnage Principal](images\personnagePrincipal.png)
+
+**Le personnage séléctionné est :**
+
+![Personnage Principal](images\PersoPrincipal.jpg)
+
+Je retire le background avec https://www.adobe.com/express/feature/ai/image/remove-background
+
+![Personnage Principal](images\PersoPrincipalRemoveBg.png)
+
+### Gardes
+
+Voici le prompte utilisés pour générer les gardes du chateau de notre jeu, nous avons utilisé : https://www.bing.com/images/create
+
+![Prompte Gardes](images\GardePrompte.png)
+
+**Les gardes séléctionnés sont :**
+
+![Gardes](images\gardes.jpg)
+
+Je retire le background avec https://www.adobe.com/express/feature/ai/image/remove-background
+
+![Gardes](images\Gardes_remove_bg.png)
