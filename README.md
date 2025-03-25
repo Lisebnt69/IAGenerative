@@ -53,6 +53,8 @@ Nous créerons un jeu vidéo à partir d’une idée développée en brainstormi
 Voici les prompts utilisé pour générer le logo de notre jeu :
 
 ![Prompte n°1 Logo](images\promptLogo1.png)
+![Prompte n°2 Logo](images\IMAGELOGO1.png)
+![Prompte n°2 Logo](images\IMAGELOGO2.png)
 
 **Le logo séléctionné est :**
 
