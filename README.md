@@ -45,6 +45,5 @@ Nous créerons un jeu vidéo à partir d’une idée développée en brainstormi
    - Interactions : Les interactions entre les personnages et l'environnement devraient être réalistes et immersives, avec des animations qui reflètent les actions du joueur.
 
 8. **assemblage des ressources**
-
-- organisation des ressources : Les ressources devraient être organisées de manière logique et cohérente, avec des dossiers et des sous-dossiers qui reflètent la structure du projet.
-- Documentation du projet : La documentation du projet devrait inclure des informations sur les personnages, les décors, les objets, les mécaniques de jeu et les énigmes, ainsi que des notes sur la conception et la réalisation du jeu.
+   - organisation des ressources : Les ressources devraient être organisées de manière logique et cohérente, avec des dossiers et des sous-dossiers qui reflètent la structure du projet.
+   - Documentation du projet : La documentation du projet devrait inclure des informations sur les personnages, les décors, les objets, les mécaniques de jeu et les énigmes, ainsi que des notes sur la conception et la réalisation du jeu.
