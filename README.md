@@ -17,7 +17,7 @@ Nous créerons un jeu vidéo à partir d’une idée développée en brainstormi
 2. **nom du jeu et identité visuelle**
 
    - Nom du jeu : "Le Secret du Château"
-   - Identité visuelle : Le logo devrait représenter un symbole de la trahison, tel qu'une épée brisée ou un blason déchiré, avec des couleurs sombres et métalliques pour évoquer l'atmosphère médiévale. Le style graphique devrait être réaliste, avec des détails précis et des textures qui évoquent la pierre, le bois et le métal.
+   - Identité visuelle : Le logo devrait représenter un chateau regorgant de mystères
 
 3. **génie artistique du concept**
 
