@@ -27,7 +27,7 @@ Nous créerons un jeu vidéo à partir d’une idée développée en brainstormi
 4. **scénario et narration**
 
    - Histoire : L'histoire devrait suivre le protagoniste qui a trahi le roi et est emprisonné dans les donjons du château. Le joueur devrait découvrir les motivations du protagoniste et les événements qui ont mené à sa trahison.
-   - Personnages principaux : Le protagoniste, le roi, les gardes royaux et la famille du protagoniste devraient être les personnages principaux. Le roi devrait être représenté comme un personnage cruel et autoritaire, tandis que la famille du protagoniste devrait être représentée comme des personnages innocents et vulnérables.
+   - Personnages principaux : Le protagoniste(un ancien chevalier), le roi, les gardes royaux et la famille du protagoniste devraient être les personnages principaux. Le roi devrait être représenté comme un personnage cruel et autoritaire, tandis que la famille du protagoniste devrait être représentée comme des personnages innocents et vulnérables.
 
 5. **musique et bande-son**
 
@@ -47,3 +47,13 @@ Nous créerons un jeu vidéo à partir d’une idée développée en brainstormi
 8. **assemblage des ressources**
    - organisation des ressources : Les ressources devraient être organisées de manière logique et cohérente, avec des dossiers et des sous-dossiers qui reflètent la structure du projet.
    - Documentation du projet : La documentation du projet devrait inclure des informations sur les personnages, les décors, les objets, les mécaniques de jeu et les énigmes, ainsi que des notes sur la conception et la réalisation du jeu.
+
+### Logo
+
+Voici les prompts utilisé pour générer le logo de notre jeu :
+
+![Prompte n°1 Logo](images\promptLogo1.png)
+
+**Le logo séléctionné est :**
+
+![Logo](images\Logo.jpeg)
