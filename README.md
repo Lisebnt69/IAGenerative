@@ -23,7 +23,7 @@ Nous créerons un jeu vidéo à partir d’une idée développée en brainstormi
 
 3. **génie artistique du concept**
 
-   - Conception des personnages : Les personnages devraient être conçus pour refléter leur personnalité et leur rôle dans l'histoire. Le protagoniste devrait être un personnage sombre et déterminé, avec des vêtements déchirés et des cicatrices. Les gardes royaux devraient être représentés comme des personnages menaçants et autoritaires.
+   - Conception des personnages : Les personnages devraient être conçus pour refléter leur personnalité et leur rôle dans l'histoire. Le protagoniste devrait être un personnage déterminé. Les gardes royaux et le roi devraient être représentés comme des personnages menaçants et autoritaires.
    - Conception des décors : Les décors devraient être conçus pour évoquer l'atmosphère d'un château médiéval, avec des murs en pierre, des tours et des remparts. Les illustrations de concept devraient refléter les éléments clés tels que les pièges, les énigmes et les objets à collecter.
 
 4. **scénario et narration**
@@ -107,3 +107,13 @@ Voici le prompte utilisés pour générer le roidu chateau de notre jeu, nous av
 Je retire le background avec https://www.adobe.com/express/feature/ai/image/remove-background
 
 ![Roi](images\RoiRemoveBg.png)
+
+## Musique
+
+Voici le prompte utilisés pour générer le thème instrumental de notre jeu, nous avons utilisé : https://suno.com/
+
+![Musique](images\prompteMusique.png)
+
+**La musique séléctionnée est :**
+https://suno.com/song/65e75e03-2558-488b-aaf3-fdaa056c39fd?sh=ibUSSaVjmAu19gkv
+![Musique](images\musique.png)
