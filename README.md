@@ -141,7 +141,7 @@ Coffre en 3D :
 
 <video src="images\coffre.mp4"  controls></video>
 
-3. **Garde**
+2. **Garde**
 
    Voici le prompte utilisés pour générer un garde en 3D dans notre jeu, nous avons utilisé : [meshy.ai](https://www.meshy.ai/)
 
