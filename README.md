@@ -50,7 +50,7 @@ Nous créerons un jeu vidéo à partir d’une idée développée en brainstormi
    - organisation des ressources : Les ressources devraient être organisées de manière logique et cohérente, avec des dossiers et des sous-dossiers qui reflètent la structure du projet.
    - Documentation du projet : La documentation du projet devrait inclure des informations sur les personnages, les décors, les objets, les mécaniques de jeu et les énigmes, ainsi que des notes sur la conception et la réalisation du jeu.
 
-### Logo
+## Logo
 
 Voici les promptes utilisés pour générer le logo de notre jeu, nous avons utilisé : https://leonardo.ai/
 
@@ -63,6 +63,8 @@ Voici les promptes utilisés pour générer le logo de notre jeu, nous avons uti
 **Le logo séléctionné est :**
 
 ![Logo](images\Logo.jpeg)
+
+## Personnages
 
 ### Personnage principal
 
@@ -91,3 +93,17 @@ Voici le prompte utilisés pour générer les gardes du chateau de notre jeu, no
 Je retire le background avec https://www.adobe.com/express/feature/ai/image/remove-background
 
 ![Gardes](images\Gardes_remove_bg.png)
+
+### Roi
+
+Voici le prompte utilisés pour générer le roidu chateau de notre jeu, nous avons utilisé : https://www.bing.com/images/create
+
+![Prompte Roi](images\PrompteRoi.png)
+
+**Le roi séléctionné est :**
+
+![Roi](images\Roi.jpg)
+
+Je retire le background avec https://www.adobe.com/express/feature/ai/image/remove-background
+
+![Roi](images\RoiRemoveBg.png)
