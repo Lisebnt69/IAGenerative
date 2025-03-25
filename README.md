@@ -114,25 +114,49 @@ Voici le prompte utilisés pour générer le thème instrumental de notre jeu, n
 
 ![Musique](images\prompteMusique.png)
 
-**Le thème musicalséléctionnée est :**
+**Le thème musical séléctionné est :**
 https://suno.com/song/65e75e03-2558-488b-aaf3-fdaa056c39fd?sh=ibUSSaVjmAu19gkv
 
 ![Musique](images\musique.png)
 
-## Objets 3d
+## Objets 3D
 
 1. **Coffre Fort**
-   Voici le prompte utilisés pour générer le thème instrumental de notre jeu, nous avons utilisé : [meshy.ai](https://www.meshy.ai/)
+
+   Voici le prompte utilisés pour générer un coffre fort en 3D dans notre jeu, nous avons utilisé : [meshy.ai](https://www.meshy.ai/)
 
 Prompte :
+
 ![CoffrePrompte](images\coffreFort3D.png)
 
 Brouillon choisi :
+
 ![CoffreBrouillon](images\coffreBrouillonSelect.png)
 
 Coffre colorisé :
+
 ![Coffre](images\coffreColoré.png)
 
 Coffre en 3D :
 
-<video src="images\coffre.mp4" width="320" height="240" controls></video>
+<video src="images\coffre.mp4"  controls></video>
+
+3. **Garde**
+
+   Voici le prompte utilisés pour générer un garde en 3D dans notre jeu, nous avons utilisé : [meshy.ai](https://www.meshy.ai/)
+
+Prompte :
+
+![GardePrompte](images\gardes3D.png)
+
+Brouillon choisi :
+
+![GardeBrouillon](images\BrouillonGardes.png)
+
+Garde colorisé :
+
+![Garde](images\gardeColor.png)
+
+Garde en 3D :
+
+<video src="images\garde.mp4"  controls></video>
