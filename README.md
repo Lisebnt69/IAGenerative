@@ -108,12 +108,31 @@ Je retire le background avec https://www.adobe.com/express/feature/ai/image/remo
 
 ![Roi](images\RoiRemoveBg.png)
 
-## Musique
+## Thème musical
 
 Voici le prompte utilisés pour générer le thème instrumental de notre jeu, nous avons utilisé : https://suno.com/
 
 ![Musique](images\prompteMusique.png)
 
-**La musique séléctionnée est :**
+**Le thème musicalséléctionnée est :**
 https://suno.com/song/65e75e03-2558-488b-aaf3-fdaa056c39fd?sh=ibUSSaVjmAu19gkv
+
 ![Musique](images\musique.png)
+
+## Objets 3d
+
+1. **Coffre Fort**
+   Voici le prompte utilisés pour générer le thème instrumental de notre jeu, nous avons utilisé : [meshy.ai](https://www.meshy.ai/)
+
+Prompte :
+![CoffrePrompte](images\coffreFort3D.png)
+
+Brouillon choisi :
+![CoffreBrouillon](images\coffreBrouillonSelect.png)
+
+Coffre colorisé :
+![Coffre](images\coffreColoré.png)
+
+Coffre en 3D :
+
+<video src="images\coffre.mp4" width="320" height="240" controls></video>
